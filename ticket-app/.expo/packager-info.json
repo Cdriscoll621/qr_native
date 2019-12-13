@@ -1,10 +1,10 @@
 {
-  "devToolsPort": 19002,
+  "devToolsPort": 19003,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 95775,
+  "packagerPid": 79041,
   "expoServerNgrokUrl": "https://kf-zmm.char-js.ticket-app.exp.direct",
   "packagerNgrokUrl": "https://packager.kf-zmm.char-js.ticket-app.exp.direct",
-  "ngrokPid": 95796,
+  "ngrokPid": 79054,
   "webpackServerPort": null
 }
