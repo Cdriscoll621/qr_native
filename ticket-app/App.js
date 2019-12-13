@@ -10,12 +10,12 @@ import Button from 'react-native-button';
 export default class App extends React.Component {
   render() {
     return (
-     
+
       <View style={styles.container}>
 
       <Button>press me</Button>
-      
-       
+        <Text>henlo</Text>
+
       </View>
     );
   }
