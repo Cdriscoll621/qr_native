@@ -122,6 +122,7 @@ const styles = StyleSheet.create({
   header: {
     fontSize: 25
   },
+  
   image: {
     marginTop: 15,
     width: 150,
