@@ -1,4 +1,5 @@
 import React from "react";
+import GoogleIntro from "./Google";
 import {
   ImageBackground,
   Image,
@@ -49,6 +50,9 @@ class Onboarding extends React.Component {
                     Keep Life Organized
                   </Text>
                 </Block>
+              </Block>
+              <Block center>
+                <GoogleIntro/>
               </Block>
               <Block center>
                 <Button
